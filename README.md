@@ -1,8 +1,11 @@
 Prerequisite
+
 First, We need to Install the following software for the project setup.
 
 1.JDK 1.8
+
 2.NetBeans IDE
+
 3.MySQL Administrator
 
 After completing the installation of above software use the following steps to run the project.
